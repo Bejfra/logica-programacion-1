@@ -73,4 +73,4 @@ if(Number.isInteger(num1) && Number.isInteger(num2) &&Number.isInteger(num3)){
        
   }
 }else{
-    console.log("Uno de los números ingresados no es entero")
+    console.log("Uno de los números ingresados no es entero")}
